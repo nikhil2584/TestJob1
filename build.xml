@@ -1,0 +1,4 @@
+cmd
+cd C:/
+md jabs/1
+copy c:/jenkins/workspace/* C:/jobs/1
